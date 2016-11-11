@@ -1,0 +1,17 @@
+{
+  "name": "nepy",
+  "version": "1.0.0",
+  "description": "nepy",
+  "main": "nepy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nepy"
+  ],
+  "author": "nep",
+  "license": "ISC",
+  "dependencies": {
+    "discordie": "^0.9.0"
+  }
+}
